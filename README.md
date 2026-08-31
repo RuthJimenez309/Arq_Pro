@@ -45,23 +45,6 @@ By utilizing strict schemas and structural validation typing, the engine impleme
 
 ---
 
-## 💻 How to Run and Test
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd ZeroTrust-ZodGuard
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install zod typescript ts-node
-   ```
-
-3. **Execute the security simulation:**
-   ```bash
-   npx ts-node zod_guard.ts
-   ```
 
 ---
 
